@@ -1,6 +1,6 @@
-In this Responsive Web Design Certification
+* Responsive Web Design Certification
 
-i have learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+I have learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 
 First, i have  build a cat photo app to learn the basics of HTML and CSS. Later, i also  learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
 
